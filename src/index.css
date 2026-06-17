@@ -28,3 +28,15 @@ nav a {
 nav :hover {
     color: #222;
 }
+
+td.todo {
+    background-color: red;
+}
+
+td.doing {
+    background-color: yellow;
+}
+
+td.done {
+    background-color: green;
+}
