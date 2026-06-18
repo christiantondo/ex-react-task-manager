@@ -10,8 +10,8 @@ function App() {
             <BrowserRouter>
 
                 <nav>
-                    <NavLink to="/Task List">Task list</NavLink>
-                    <NavLink to="/New Task">New Task</NavLink>
+                    <NavLink to="/">Task list</NavLink>
+                    <NavLink to="/add">New Task</NavLink>
                 </nav>
 
                 <div>
